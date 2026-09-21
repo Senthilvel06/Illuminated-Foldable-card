@@ -6,7 +6,7 @@ This project is a foldable greeting card designed in the form of a miniature tab
 
 The LED is placed inside the paper lampshade to create an illumination effect. The design is lightweight, simple, and suitable for decorative and greeting purposes.  
 
-## 2\. OBJECTIVES
+# 2\. OBJECTIVES
 
 To design a creative and functional greeting card.
 
